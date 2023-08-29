@@ -1,5 +1,5 @@
 # Mr Jeremiah Newlove's Robotics Portfolio
-- Drive Train: 4 Motor standard,
+- Drive Train: 4 Motor standard 
 
 - Launcher: Chain of 2 motor 2 working together to draw back a hammer attached to various strength -rubber bands. Once drawn back its released and launches the triballs forward.
   - Picker: A set of rollres put together with 1 motor or less used to sweep up triballs into the launcher. 
