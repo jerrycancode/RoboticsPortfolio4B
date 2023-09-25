@@ -9,7 +9,7 @@
 
 ## *People Competing: 
 
-Truman - Main Progammer 
+Truman - Main Progammer | Driver 
 
 Eli  - Main Builder | Leader | Co Programmer 
 
@@ -22,3 +22,5 @@ C-Channels, about 32 holes ish?
 ![Plan Number 1](https://github.com/jerrycancode/RoboticsPortfolio4B/assets/142936415/51731c31-8b00-432e-b49e-d2a071aaf5ed)
 
 ![DriveTrain2](https://github.com/Bgdshd/RoboticsTeam2B4/assets/111591253/e1691ef3-1c5d-4733-97f2-9d93e07348db)
+
+![Chassis Build](https://drive.google.com/file/d/1GqmVs0i5VkNaoYOq6GXVfO9Jj00A3QTn/view?usp=drive_link)
