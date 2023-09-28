@@ -9,13 +9,13 @@
 
 ## *People Competing: 
 
-Truman - Main Progammer | Driver 
+Truman - Main Progammer 
 
 Eli  - Main Builder | Leader | Co Programmer 
 
-Jeremiah - Co Programer | Driver | Co Leader
+Jeremiah - Co Programer | Driver | Documenter
 
-Xander  - Builder | Co Programer
+Xander  - Builder 
 
 C-Channels, about 32 holes ish? 
 
