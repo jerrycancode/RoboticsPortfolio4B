@@ -25,3 +25,4 @@ C-Channels, about 32 holes ish?
 
 ![Chassis Build]![IMG_3268](https://github.com/jerrycancode/RoboticsPortfolio4B/assets/142936415/f13b43b4-d729-4ae6-85b8-3e54e2237afd)
 
+![IMG_3355](https://github.com/jerrycancode/RoboticsPortfolio4B/assets/142936415/141bf8d6-d006-4e72-9315-817471aba450)
